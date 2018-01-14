@@ -9,7 +9,7 @@ See the [official FMI website](http://fmi-standard.org/) for the official specif
 
 - [Libraries](#section)
   - [C](#c)
-  - [C++](#c++)
+  - [C++](#c-1)
   - [Python](#python)
   - [Java](#java)
 - [Tools](#tools) 
@@ -50,7 +50,7 @@ For the official list of tools that support FMI, check http://fmi-standard.org/t
 
 ## Contribute
 
-Contributions are welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
 
 ## License
