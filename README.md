@@ -21,28 +21,28 @@ See the [official FMI website](http://fmi-standard.org/) for the official specif
 Libraries to import, simulate and export FMUs (Functional Mock-up Units). 
 
 ### C 
-- [FMI Library](http://jmodelica.org/FMILibrary) - C library for import of FMUs.
-- [FMU SDK](https://www.qtronic.de/en/fmusdk.html) - C library for import of FMUs.
+- [FMI Library](http://jmodelica.org/FMILibrary) - C library for import of FMUs. [BSD] 
+- [FMU SDK](https://www.qtronic.de/en/fmusdk.html) - C library for import of FMUs. [BSD]
 
 ### C++
-- [FMI++](https://sourceforge.net/projects/fmipp/) - C++ library for import and export of FMUs. 
+- [FMI++](https://sourceforge.net/projects/fmipp/) - C++ library for import and export of FMUs. [BSD]
 
 ### Python
-- [PyFMI](http://www.pyfmi.org/) - Python package for loading and interacting with FMUs, based on the FMI Library. 
-- [FMPy](https://github.com/CATIA-Systems/FMPy) - Python package for loading and interacting with FMUs. It supports also the latest [System Structure and Parameterization (SSP standard)](https://www.modelica.org/projects). 
-- [FMI++ Python Interface](https://pypi.python.org/pypi/fmipp) - Python interface for the FMI++ library. 
-- [SimulatorToFMU](https://github.com/LBNL-ETA/SimulatorToFMU) - Python package that allows to export a memoryless Python-driven simulation program or script as a FMU.
-- [modestpy](https://github.com/sdu-cfei/modest-py) - Python package for parameter estimation in FMUs.
+- [PyFMI](http://www.pyfmi.org/) - Python package for loading and interacting with FMUs, based on the FMI Library. [LGPL]
+- [FMPy](https://github.com/CATIA-Systems/FMPy) - Python package for loading and interacting with FMUs. It supports also the latest [System Structure and Parameterization (SSP standard)](https://www.modelica.org/projects). [BSD]
+- [FMI++ Python Interface](https://pypi.python.org/pypi/fmipp) - Python interface for the FMI++ library. [BSD, BOOST]
+- [SimulatorToFMU](https://github.com/LBNL-ETA/SimulatorToFMU) - Python package that allows to export a memoryless Python-driven simulation program or script as a FMU. [BSD]
+- [modestpy](https://github.com/sdu-cfei/modest-py) - Python package for parameter estimation in FMUs. [BSD]
 
 ### Java
-- [fmi4j](https://sfi-mechatronics.github.io/fmi4j/) - Java/Kotlin library for dealing with FMUs on the JVM platform. 
-- [javaFMI](https://bitbucket.org/siani/javafmi) - Java library for import and export of FMUs. 
+- [fmi4j](https://sfi-mechatronics.github.io/fmi4j/) - Java/Kotlin library for dealing with FMUs on the JVM platform. [MIT]
+- [javaFMI](https://bitbucket.org/siani/javafmi) - Java library for import and export of FMUs. [LGPL3]
 
 ## Tools 
 For the official list of tools that support FMI, check http://fmi-standard.org/tools/ . 
 
-- [λ-Sim](https://github.com/mbonvini/LambdaSim) - Tool that converts FMU simulation models into REST APIs.
-- [FMITerminalBlock](https://github.com/AIT-IES/FMITerminalBlock) -  Two way interface between the FMI and IEC 61499-based controllers.
+- [λ-Sim](https://github.com/mbonvini/LambdaSim) - Tool that converts FMU simulation models into REST APIs. [MIT]
+- [FMITerminalBlock](https://github.com/AIT-IES/FMITerminalBlock) -  Two way interface between the FMI and IEC 61499-based controllers. [BSD]
 
 ## Community
 - [Stack Overflow](https://stackoverflow.com/tags/fmi) - Questions related to FMI in Stack Overflow. 
