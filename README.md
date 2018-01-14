@@ -36,6 +36,7 @@ Libraries to import, simulate and export FMUs (Functional Mock-up Units).
 
 ### Java
 - [fmi4j](https://sfi-mechatronics.github.io/fmi4j/) - Java/Kotlin library for dealing with FMUs on the JVM platform. 
+- [javaFMI](https://bitbucket.org/siani/javafmi) - Java library for import and export of FMUs. 
 
 ## Tools 
 For the official list of tools that support FMI, check http://fmi-standard.org/tools/ . 
