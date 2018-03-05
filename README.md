@@ -35,8 +35,9 @@ Libraries to import, simulate and export FMUs (Functional Mock-up Units).
 - [modestpy](https://github.com/sdu-cfei/modest-py) - Python package for parameter estimation in FMUs. [BSD]
 
 ### Java
-- [fmi4j](https://sfi-mechatronics.github.io/fmi4j/) - Java/Kotlin library for dealing with FMUs on the JVM platform. [MIT]
+- [FMI4j](https://sfi-mechatronics.github.io/FMI4j/) - Java/Kotlin library for dealing with FMUs on the JVM platform. [MIT]
 - [javaFMI](https://bitbucket.org/siani/javafmi) - Java library for import and export of FMUs. [LGPL3]
+- [gRPC-FMU](https://github.com/SFI-Mechatronics/gRPC-FMU) - Java library that allows FMUs to be accessed through language independent RPC calls using [gRPC](https://grpc.io/). [MIT]
 
 ## Tools 
 For the official list of tools that support FMI, check http://fmi-standard.org/tools/ . 
