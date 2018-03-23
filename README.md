@@ -37,7 +37,7 @@ Libraries to import, simulate and export FMUs (Functional Mock-up Units).
 ### Java
 - [FMI4j](https://sfi-mechatronics.github.io/FMI4j/) - Java/Kotlin library for dealing with FMUs on the JVM platform. [MIT]
 - [javaFMI](https://bitbucket.org/siani/javafmi) - Java library for import and export of FMUs. [LGPL3]
-- [FMU-proxy](https://sfi-mechatronics.github.io/FMU-proxy/) - Tool that allows FMUs to be accessed through language independent RPC calls using [gRPC](https://grpc.io/), [Apache Thrift](https://thrift.apache.org/), [Apache Avro](https://avro.apache.org/) and/or [JSON-RPC](http://www.jsonrpc.org/specification)[MIT]
+- [FMU-proxy](https://sfi-mechatronics.github.io/FMU-proxy/) - Tool that allows FMUs to be accessed through language independent RPC calls using [gRPC](https://grpc.io/), [Apache Thrift](https://thrift.apache.org/), [Apache Avro](https://avro.apache.org/) and/or [JSON-RPC](http://www.jsonrpc.org/specification). [MIT]
 
 ## Tools 
 For the official list of tools that support FMI, check http://fmi-standard.org/tools/ . 
