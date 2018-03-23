@@ -37,13 +37,14 @@ Libraries to import, simulate and export FMUs (Functional Mock-up Units).
 ### Java
 - [FMI4j](https://sfi-mechatronics.github.io/FMI4j/) - Java/Kotlin library for dealing with FMUs on the JVM platform. [MIT]
 - [javaFMI](https://bitbucket.org/siani/javafmi) - Java library for import and export of FMUs. [LGPL3]
-- [FMU-proxy](https://sfi-mechatronics.github.io/FMU-proxy/) - Tool that allows FMUs to be accessed through language independent RPC calls using [gRPC](https://grpc.io/), [Apache Thrift](https://thrift.apache.org/), [Apache Avro](https://avro.apache.org/) and/or [JSON-RPC](http://www.jsonrpc.org/specification). [MIT]
 
 ## Tools 
 For the official list of tools that support FMI, check http://fmi-standard.org/tools/ . 
 
 - [λ-Sim](https://github.com/mbonvini/LambdaSim) - Tool that converts FMU simulation models into REST APIs. [MIT]
 - [FMITerminalBlock](https://github.com/AIT-IES/FMITerminalBlock) -  Two way interface between the FMI and IEC 61499-based controllers. [BSD]
+- [FMU-proxy](https://sfi-mechatronics.github.io/FMU-proxy/) - Tool that allows FMUs to be accessed through language independent RPC calls using [gRPC](https://grpc.io/), [Apache Thrift](https://thrift.apache.org/), [Apache Avro](https://avro.apache.org/) and/or [JSON-RPC](http://www.jsonrpc.org/specification). [MIT]
+
 
 ## Community
 - [Stack Overflow](https://stackoverflow.com/tags/fmi) - Questions related to FMI in Stack Overflow. 
