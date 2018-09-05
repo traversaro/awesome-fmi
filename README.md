@@ -39,6 +39,13 @@ Libraries to import, simulate and export FMUs (Functional Mock-up Units).
 - [FMI4j](https://sfi-mechatronics.github.io/FMI4j/) - Java/Kotlin library for dealing with FMUs on the JVM platform. [MIT]
 - [javaFMI](https://bitbucket.org/siani/javafmi) - Java library for import and export of FMUs. [LGPL3]
 
+### MATLAB/Simulink
+- [Simulink FMU Importing](https://mathworks.com/help/simulink/in-product-solutions.html) - Out-of-the-box official support for FMU import in Simulink. [Commercial]
+- [FMI Toolbox for MATLAB/Simulink](https://www.modelon.com/products-services/modelon-deployment-suite/fmi-toolbox/) - Toolbox with support for Simulink FMU Import/Export and MATLAB FMU import. [Commercial]
+- [matlab-fmu](https://sourceforge.net/projects/matlab-fmu/) - MATLAB Toolbox for Windows with support for import of FMUs for Model-Exchange and Co-Simulation as well as the export of MATLAB scripts as FMUs for Co-Simulation, based on the FMI++ library. [BSD]
+- [Simulix](https://github.com/Kvixen/Simulix) - A third-party Simulink tool to generate FMUs from Simulink models using the C-API. [GPL3]
+
+
 ## Tools 
 For the official list of tools that support FMI, check http://fmi-standard.org/tools/ . 
 
