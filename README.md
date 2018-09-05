@@ -12,6 +12,7 @@ See the [official FMI website](http://fmi-standard.org/) for the official specif
   - [C++](#c-1)
   - [Python](#python)
   - [Java](#java)
+  - [MATLAB/Simulink](#matlabsimulink)
 - [Tools](#tools) 
 - [Community](#community)
 
