@@ -25,8 +25,8 @@ Libraries to import, simulate and export FMUs (Functional Mock-up Units).
 - [FMU SDK](https://www.qtronic.de/en/fmusdk.html) - C library for import of FMUs. [BSD]
 
 ### C++
-- [FMI4cpp](https://github.com/SFI-Mechatronics/FMI4cpp) - FMI 2.0 implementation written in modern C++. [MIT]
 - [FMI++](https://sourceforge.net/projects/fmipp/) - C++ library for import and export of FMUs. [BSD]
+- [FMI4cpp](https://github.com/SFI-Mechatronics/FMI4cpp) - FMI 2.0 implementation written in modern C++. [MIT]
 
 ### Python
 - [PyFMI](http://www.pyfmi.org/) - Python package for loading and interacting with FMUs, based on the FMI Library. [LGPL]
