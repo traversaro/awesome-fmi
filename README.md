@@ -51,6 +51,7 @@ Libraries to import, simulate and export FMUs (Functional Mock-up Units).
 For the official list of tools that support FMI, check http://fmi-standard.org/tools/ . 
 
 - [λ-Sim](https://github.com/mbonvini/LambdaSim) - Tool that converts FMU simulation models into REST APIs. [MIT]
+- [FMIGo!](http://www.fmigo.net/) - A set of tools for dealing with the FMI and SSP standards. [MIT]
 - [FMITerminalBlock](https://github.com/AIT-IES/FMITerminalBlock) -  Two way interface between the FMI and IEC 61499-based controllers. [BSD]
 - [FMU-proxy](https://sfi-mechatronics.github.io/FMU-proxy/) - Tool that allows FMUs to be accessed through language independent RPC calls using [gRPC](https://grpc.io/), [Apache Thrift](https://thrift.apache.org/) and/or [JSON-RPC](http://www.jsonrpc.org/specification). [MIT]
 - [Unity-FMI-Addon](https://github.com/CATIA-Systems/Unity-FMI-Addon) - FMI support for [Unity](https://unity3d.com/), a cross-platform game engine. [BSD]
