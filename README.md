@@ -37,7 +37,7 @@ Libraries to import, simulate and export FMUs (Functional Mock-up Units).
 - [modestpy](https://github.com/sdu-cfei/modest-py) - Python package for parameter estimation in FMUs. [BSD]
 
 ### Java
-- [FMI4j](https://sfi-mechatronics.github.io/FMI4j/) - Java/Kotlin library for dealing with FMUs on the JVM platform. [MIT]
+- [FMI4j](https://github.com/NTNU-IHB/FMI4j) - Java/Kotlin library for dealing with FMUs on the JVM platform. [MIT]
 - [javaFMI](https://bitbucket.org/siani/javafmi) - Java library for import and export of FMUs. [LGPL3]
 
 ### MATLAB/Simulink
@@ -53,7 +53,7 @@ For the official list of tools that support FMI, check http://fmi-standard.org/t
 - [λ-Sim](https://github.com/mbonvini/LambdaSim) - Tool that converts FMU simulation models into REST APIs. [MIT]
 - [FMIGo!](http://www.fmigo.net/) - A set of tools for dealing with the FMI and SSP standards. [MIT]
 - [FMITerminalBlock](https://github.com/AIT-IES/FMITerminalBlock) -  Two way interface between the FMI and IEC 61499-based controllers. [BSD]
-- [FMU-proxy](https://sfi-mechatronics.github.io/FMU-proxy/) - Tool that allows FMUs to be accessed through language independent RPC calls using [gRPC](https://grpc.io/), [Apache Thrift](https://thrift.apache.org/) and/or [JSON-RPC](http://www.jsonrpc.org/specification). [MIT]
+- [FMU-proxy](https://github.com/NTNU-IHB/FMU-proxy/) - Tool that allows FMUs to be accessed through language independent RPC calls using [gRPC](https://grpc.io/), [Apache Thrift](https://thrift.apache.org/) and/or [JSON-RPC](http://www.jsonrpc.org/specification). [MIT]
 - [Unity-FMI-Addon](https://github.com/CATIA-Systems/Unity-FMI-Addon) - FMI support for [Unity](https://unity3d.com/), a cross-platform game engine. [BSD]
 - [ROS fmi_adapter](https://github.com/boschresearch/fmi_adapter) - FMI support for [ROS](http://www.ros.org/), a flexible framework for writing robot software. [APACHE2]
 - [fmi_adapter_ros2](https://github.com/boschresearch/fmi_adapter_ros2) - FMI support for [ROS2](https://index.ros.org/doc/ros2/), the new version of the Robot Operating System. [APACHE2]
