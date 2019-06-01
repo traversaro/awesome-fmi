@@ -13,6 +13,7 @@ See the [official FMI website](http://fmi-standard.org/) for the official specif
   - [Python](#python)
   - [Java](#java)
   - [MATLAB/Simulink](#matlabsimulink)
+  - [Rust](#rust)
 - [Tools](#tools) 
 - [Community](#community)
 
@@ -47,7 +48,8 @@ Libraries to import, simulate and export FMUs (Functional Mock-up Units).
 - [Simulix](https://github.com/Kvixen/Simulix) - A third-party Simulink tool to generate FMUs from Simulink models using the C-API. [GPL3]
 - [FMIKit-Simulink](https://github.com/CATIA-Systems/FMIKit-Simulink) - Import and export Functional Mock-up Units with Simulink. [BSD]
 
-
+### Rust
+- [rust-fmi](https://crates.io/crates/fmi) - A Rust interface to FMUs (Functional Mockup Units) that follow the FMI Standard. [APACHE2/MIT]
 
 ## Tools 
 For the official list of tools that support FMI, check http://fmi-standard.org/tools/ . 
