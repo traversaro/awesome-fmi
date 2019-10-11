@@ -36,6 +36,7 @@ Libraries to import, simulate and export FMUs (Functional Mock-up Units).
 - [FMI++ Python Interface](https://pypi.python.org/pypi/fmipp) - Python interface for the FMI++ library. [BSD, BOOST]
 - [SimulatorToFMU](https://github.com/LBNL-ETA/SimulatorToFMU) - Python package that allows to export a memoryless Python-driven simulation program or script as a FMU. [BSD]
 - [modestpy](https://github.com/sdu-cfei/modest-py) - Python package for parameter estimation in FMUs. [BSD]
+- [PythonFMU](https://github.com/NTNU-IHB/PythonFMU) - Framework for exporting Python code as FMUs. [MIT]
 
 ### Java
 - [FMI4j](https://github.com/NTNU-IHB/FMI4j) - Java/Kotlin library for dealing with FMUs on the JVM platform. [MIT]
