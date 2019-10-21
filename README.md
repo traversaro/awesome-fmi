@@ -58,7 +58,7 @@ For the official list of tools that support FMI, check http://fmi-standard.org/t
 - [λ-Sim](https://github.com/mbonvini/LambdaSim) - Tool that converts FMU simulation models into REST APIs. [MIT]
 - [FMIGo!](http://www.fmigo.net/) - A set of tools for dealing with the FMI and SSP standards. [MIT]
 - [FMITerminalBlock](https://github.com/AIT-IES/FMITerminalBlock) -  Two way interface between the FMI and IEC 61499-based controllers. [BSD]
-- [FMU-proxy](https://github.com/NTNU-IHB/FMU-proxy/) - Tool that allows FMUs to be accessed through language independent RPC calls using [gRPC](https://grpc.io/), [Apache Thrift](https://thrift.apache.org/) and/or [JSON-RPC](http://www.jsonrpc.org/specification). [MIT]
+- [FMU-proxy](https://github.com/NTNU-IHB/FMU-proxy/) - Tool that allows FMUs to be accessed through language independent RPC calls using [gRPC](https://grpc.io/) or [Apache Thrift](https://thrift.apache.org/). [MIT]
 - [Unity-FMI-Addon](https://github.com/CATIA-Systems/Unity-FMI-Addon) - FMI support for [Unity](https://unity3d.com/), a cross-platform game engine. [BSD]
 - [ROS fmi_adapter](https://github.com/boschresearch/fmi_adapter) - FMI support for [ROS](http://www.ros.org/), a flexible framework for writing robot software. [APACHE2]
 - [fmi_adapter_ros2](https://github.com/boschresearch/fmi_adapter_ros2) - FMI support for [ROS2](https://index.ros.org/doc/ros2/), the new version of the Robot Operating System. [APACHE2]
