@@ -78,12 +78,17 @@ FMI 3.0  development is currently in Alpha phase. General information on the FMI
 
 **Warning: FMI 3.0 is still under heavy development, and most of the tools listed in the following they support it only in an experimental way. If you want stable tools, use FMI 2 for the time being.**
 
-Some of the libraries listed in the previous section also have prototypal support for FMI 3 alpha: 
+Some of the projects listed in the previous section also have prototypal support for FMI 3 alpha: 
 
-- **Python:** [fmpy](https://github.com/CATIA-Systems/FMPy)  some support for FMI 3 is available in the [`develop`](https://github.com/CATIA-Systems/FMPy/tree/develop) branch.
-- **Simulink:** [FMIKit-Simulink](https://github.com/CATIA-Systems/FMIKit-Simulink) - Experimental export of 3.0 FMUs seems available with `grtfmi.tlc` target since `v2.8-alpha.1`, but it  still does not does not comply with FMI `3.0-alpha.3` specification. 
-- **Examples**: [Reference-FMUs](https://github.com/modelica/Reference-FMUs) : `3.0-alpha.3` examples FMUs are available, including examples for new co-simulation features such as scheduled co-simulation and early return in co-simulation.
-
+- **Examples**: 
+  - [Reference-FMUs](https://github.com/modelica/Reference-FMUs) : `3.0-alpha.3` examples FMUs are available, including examples for new co-simulation features such as scheduled co-simulation and early return in co-simulation.
+  - [PMSFIT/FMI30TestFMUs](https://github.com/PMSFIT/FMI30TestFMUs) : Some examples FMUs based on the draft FMI 3.0 specificatiion are available, including features such as binary variables.
+- **Python:** 
+  - [fmpy](https://github.com/CATIA-Systems/FMPy) - Some support for FMI 3 is available since version 0.2.19, while for the latest features you can check the [`develop`](https://github.com/CATIA-Systems/FMPy/tree/develop) branch.
+- **Simulink:** 
+  - [FMIKit-Simulink](https://github.com/CATIA-Systems/FMIKit-Simulink) - Experimental export of 3.0 FMUs seems available with `grtfmi.tlc` target since `v2.8-alpha.1`, but it  still does not does not comply with FMI `3.0-alpha.3` specification. 
+- **Formal models**
+  - [FMI-VDM-Model](https://github.com/INTO-CPS-Association/FMI-VDM-Model) - [VDM](https://en.wikipedia.org/wiki/Vienna_Development_Method) formal models for the FMI3.0 specification.
 
 ## Community
 
