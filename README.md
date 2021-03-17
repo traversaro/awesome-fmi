@@ -22,8 +22,8 @@ See the [official FMI website](http://fmi-standard.org/) for the official specif
 
 ## FMI 2 
 
-The latest (as of April 2020) stable release of the FMI specification is `2.0.1`, released on 2019-10-31 .
-You can find the text of the FMI specification 2.0.1 at https://github.com/modelica/fmi-standard/releases/tag/v2.0.1 . 
+The latest (as of March 2021) stable release of the FMI specification is `2.0.2`, released on 2020-12-23 .
+You can find the text of the FMI specification 2.0.2 at https://github.com/modelica/fmi-standard/releases/tag/v2.0.2 . 
 Unless noted  otherwise, the tools and libraries listed are compatible with FMI 2.
 
 ### Libraries
