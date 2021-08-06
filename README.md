@@ -32,7 +32,7 @@ Libraries to import, simulate and export FMUs (Functional Mock-up Units) that su
 
 #### C 
 - [FMI Library](http://jmodelica.org/FMILibrary) - C library for import of FMUs. [BSD] 
-- [FMU SDK](https://www.qtronic.de/en/fmusdk.html) - C library for exporting FMUs. [BSD]
+- [FMU SDK](https://github.com/qtronic/fmusdk) - C library for exporting FMUs. [BSD]
 
 #### C++
 - [FMI++](https://sourceforge.net/projects/fmipp/) - C++ library for import and export of FMUs. [BSD]
