@@ -15,6 +15,7 @@ See the [official FMI website](http://fmi-standard.org/) for the official specif
     - [Java](#java)
     - [MATLAB/Simulink](#matlabsimulink)
     - [Rust](#rust)
+    - [Julia](#julia)
   - [Tools](#tools) 
 - [FMI 3](#fmi-3) 
 - [Community](#community)
@@ -59,6 +60,10 @@ Libraries to import, simulate and export FMUs (Functional Mock-up Units) that su
 
 #### Rust
 - [rust-fmi](https://crates.io/crates/fmi) - A Rust interface to FMUs (Functional Mockup Units) that follow the FMI Standard. [APACHE2/MIT]
+
+#### Julia
+- [FMI.jl](https://github.com/ThummeTo/FMI.jl) - Library which integrates FMI and permits load, instantiate, parameterize and simulate FMUs seamlessly inside the Julia programming language. [MIT]
+- [FMIFlux.jl](https://github.com/ThummeTo/FMIFlux.jl) - Library which offers the ability to setup NeuralFMUs, put FMUs inside any feed-forward NN topology and get a hybrid model trainable with a standard AD training process. [MIT]
 
 ### Tools 
 For the official list of tools that support FMI 2, check http://fmi-standard.org/tools/ . 
