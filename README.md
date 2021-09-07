@@ -78,11 +78,11 @@ For the official list of tools that support FMI 2, check http://fmi-standard.org
 
 ## FMI 3
 
-FMI 3.0  development is currently in Alpha phase. General information on the FMI 3.0 feature list can be found in https://fmi-standard.org/faq/, and the development is ongoing on the repo https://github.com/modelica/fmi-standard . You can find the latest, automatically generated version of the FMI 3.0 beta standard at https://fmi-standard.org/docs/3.0-dev/ .
+FMI 3.0  development is currently in beta phase. General information on the FMI 3.0 feature list can be found in https://fmi-standard.org/faq/, and the development is ongoing on the repo https://github.com/modelica/fmi-standard . You can find the latest, automatically generated version of the FMI 3.0 beta standard at https://fmi-standard.org/docs/3.0-dev/ .
 
 **Warning: FMI 3.0 is still under heavy development, and most of the tools listed in the following they support it only in an experimental way. If you want stable tools, use FMI 2 for the time being.**
 
-Some of the projects listed in the previous section also have prototypal support for FMI 3 alpha: 
+Some of the projects listed in the previous section also have prototypal support for FMI 3 beta: 
 
 - **Examples**: 
   - [Reference-FMUs](https://github.com/modelica/Reference-FMUs) : `3.0-beta.2` examples FMUs are available, including examples for new co-simulation features such as scheduled co-simulation and early return in co-simulation.
