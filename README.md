@@ -78,19 +78,19 @@ For the official list of tools that support FMI 2, check http://fmi-standard.org
 
 ## FMI 3
 
-FMI 3.0  development is currently in Alpha phase. General information on the FMI 3.0 feature list can be found in https://fmi-standard.org/faq/, and the development is ongoing on the repo https://github.com/modelica/fmi-standard . You can find the latest, automatically generated version of the FMI 3.0 alpha standard at https://fmi-standard.org/docs/3.0-dev/ .
+FMI 3.0  development is currently in Alpha phase. General information on the FMI 3.0 feature list can be found in https://fmi-standard.org/faq/, and the development is ongoing on the repo https://github.com/modelica/fmi-standard . You can find the latest, automatically generated version of the FMI 3.0 beta standard at https://fmi-standard.org/docs/3.0-dev/ .
 
 **Warning: FMI 3.0 is still under heavy development, and most of the tools listed in the following they support it only in an experimental way. If you want stable tools, use FMI 2 for the time being.**
 
 Some of the projects listed in the previous section also have prototypal support for FMI 3 alpha: 
 
 - **Examples**: 
-  - [Reference-FMUs](https://github.com/modelica/Reference-FMUs) : `3.0-alpha.5` examples FMUs are available, including examples for new co-simulation features such as scheduled co-simulation and early return in co-simulation.
+  - [Reference-FMUs](https://github.com/modelica/Reference-FMUs) : `3.0-beta.2` examples FMUs are available, including examples for new co-simulation features such as scheduled co-simulation and early return in co-simulation.
   - [PMSFIT/FMI30TestFMUs](https://github.com/PMSFIT/FMI30TestFMUs) : Some examples FMUs based on the draft FMI 3.0 specificatiion are available, including features such as binary variables.
 - **Python:** 
-  - [fmpy](https://github.com/CATIA-Systems/FMPy) - As of verson `0.2.26` experimental support for FMI `3.0-alpha.5` is available.
+  - [fmpy](https://github.com/CATIA-Systems/FMPy) - As of verson `0.3.1` experimental support for FMI `3.0-beta.2` is available.
 - **Simulink:** 
-  - [FMIKit-Simulink](https://github.com/CATIA-Systems/FMIKit-Simulink) - As of version `2.9` experimental support for export of FMU `3.0-alpha.5` is available.
+  - [FMIKit-Simulink](https://github.com/CATIA-Systems/FMIKit-Simulink) - Experimental support for export of FMU `3.0-beta.2` is available in the `develop` branch.
 - **Formal models**
   - [FMI-VDM-Model](https://github.com/INTO-CPS-Association/FMI-VDM-Model) - [VDM](https://en.wikipedia.org/wiki/Vienna_Development_Method) formal models for the FMI3.0 specification.
 
