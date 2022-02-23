@@ -83,14 +83,15 @@ FMI 3.0  development is currently in beta phase. General information on the FMI 
 **Warning: FMI 3.0 is still under heavy development, and most of the tools listed in the following they support it only in an experimental way. If you want stable tools, use FMI 2 for the time being.**
 
 Some of the projects listed in the previous section also have prototype support for FMI 3 beta:
-
-- **Examples**:
-  - [Reference-FMUs](https://github.com/modelica/Reference-FMUs) : `3.0-beta.2` examples FMUs are available, including examples for new co-simulation features such as scheduled co-simulation and early return in co-simulation.
-  - [PMSFIT/FMI30TestFMUs](https://github.com/PMSFIT/FMI30TestFMUs) : Some examples FMUs based on the draft FMI 3.0 specification are available, including features such as binary variables.
-- **Python:**
-  - [fmpy](https://github.com/CATIA-Systems/FMPy) - As of version `0.3.1` experimental support for FMI `3.0-beta.2` is available.
-- **Simulink:**
-  - [FMIKit-Simulink](https://github.com/CATIA-Systems/FMIKit-Simulink) - Experimental support for export of FMU `3.0-beta.2` is available in the `develop` branch.
+- **Examples**: 
+  - [Reference-FMUs](https://github.com/modelica/Reference-FMUs) : `3.0-beta.3` examples FMUs are available, including examples for new co-simulation features such as scheduled co-simulation and early return in co-simulation.
+  - [PMSFIT/FMI30TestFMUs](https://github.com/PMSFIT/FMI30TestFMUs) : Some examples FMUs based on the draft FMI 3.0 specificatiion are available, including features such as binary variables.
+- **Python:** 
+  - [fmpy](https://github.com/CATIA-Systems/FMPy) - experimental support for FMI `3.0-beta.3` is available.
+- **Julia:**
+  - [FMI.jl](https://github.com/ThummeTo/FMI.jl)  - experimental support for FMI `3.0-beta.3` is available
+- **Simulink:** 
+  - [FMIKit-Simulink](https://github.com/CATIA-Systems/FMIKit-Simulink) - Experimental support for export of FMU `3.0-beta.3` is available in the `develop` branch.
 - **Formal models**
   - [FMI-VDM-Model](https://github.com/INTO-CPS-Association/FMI-VDM-Model) - [VDM](https://en.wikipedia.org/wiki/Vienna_Development_Method) formal models for the FMI3.0 specification.
 
