@@ -16,23 +16,23 @@ See the [official FMI website](http://fmi-standard.org/) for the official specif
     - [MATLAB/Simulink](#matlabsimulink)
     - [Rust](#rust)
     - [Julia](#julia)
-  - [Tools](#tools) 
-- [FMI 3](#fmi-3) 
+  - [Tools](#tools)
+- [FMI 3](#fmi-3)
 - [Community](#community)
 
 
-## FMI 2 
+## FMI 2
 
-The latest (as of March 2021) stable release of the FMI specification is `2.0.2`, released on 2020-12-23 .
-You can find the text of the FMI specification 2.0.2 at https://github.com/modelica/fmi-standard/releases/tag/v2.0.2 . 
-Unless noted  otherwise, the tools and libraries listed are compatible with FMI 2.
+The latest (as of November 2021) stable release of the FMI specification is `2.0.3`, released on 2021-11-17.
+You can find the text of the FMI specification 2.0.3 at https://github.com/modelica/fmi-standard/releases/tag/v2.0.3.
+Unless noted otherwise, the tools and libraries listed are compatible with FMI 2.
 
 ### Libraries
 
-Libraries to import, simulate and export FMUs (Functional Mock-up Units) that support FMI 2. 
+Libraries to import, simulate and export FMUs (Functional Mock-up Units) that support FMI 2.
 
-#### C 
-- [FMI Library](http://jmodelica.org/FMILibrary) - C library for import of FMUs. [BSD] 
+#### C
+- [FMI Library](http://jmodelica.org/FMILibrary) - C library for import of FMUs. [BSD]
 - [FMU SDK](https://github.com/qtronic/fmusdk) - C library for exporting FMUs. [BSD]
 
 #### C++
@@ -59,14 +59,14 @@ Libraries to import, simulate and export FMUs (Functional Mock-up Units) that su
 - [FMIKit-Simulink](https://github.com/CATIA-Systems/FMIKit-Simulink) - Import and export Functional Mock-up Units with Simulink. [BSD]
 
 #### Rust
-- [rust-fmi](https://crates.io/crates/fmi) - A Rust interface to FMUs (Functional Mockup Units) that follow the FMI Standard. [APACHE2/MIT]
+- [rust-fmi](https://crates.io/crates/fmi) - A Rust interface to FMUs (Functional Mock-up Units) that follow the FMI Standard. [APACHE2/MIT]
 
 #### Julia
 - [FMI.jl](https://github.com/ThummeTo/FMI.jl) - Library which integrates FMI and permits load, instantiate, parameterize and simulate FMUs seamlessly inside the Julia programming language. [MIT]
 - [FMIFlux.jl](https://github.com/ThummeTo/FMIFlux.jl) - Library which offers the ability to setup NeuralFMUs, put FMUs inside any feed-forward NN topology and get a hybrid model trainable with a standard AD training process. [MIT]
 
-### Tools 
-For the official list of tools that support FMI 2, check http://fmi-standard.org/tools/ . 
+### Tools
+For the official list of tools that support FMI 2, check http://fmi-standard.org/tools/ .
 
 - [λ-Sim](https://github.com/mbonvini/LambdaSim) - Tool that converts FMU simulation models into REST APIs. [MIT]
 - [FMIGo!](http://www.fmigo.net/) - A set of tools for dealing with the FMI and SSP standards. [MIT]
@@ -82,8 +82,7 @@ FMI 3.0  development is currently in beta phase. General information on the FMI 
 
 **Warning: FMI 3.0 is still under heavy development, and most of the tools listed in the following they support it only in an experimental way. If you want stable tools, use FMI 2 for the time being.**
 
-Some of the projects listed in the previous section also have prototypal support for FMI 3 beta: 
-
+Some of the projects listed in the previous section also have prototype support for FMI 3 beta:
 - **Examples**: 
   - [Reference-FMUs](https://github.com/modelica/Reference-FMUs) : `3.0-beta.3` examples FMUs are available, including examples for new co-simulation features such as scheduled co-simulation and early return in co-simulation.
   - [PMSFIT/FMI30TestFMUs](https://github.com/PMSFIT/FMI30TestFMUs) : Some examples FMUs based on the draft FMI 3.0 specificatiion are available, including features such as binary variables.
@@ -98,7 +97,7 @@ Some of the projects listed in the previous section also have prototypal support
 
 ## Community
 
-- [Stack Overflow](https://stackoverflow.com/tags/fmi) - Questions related to FMI in Stack Overflow. 
+- [Stack Overflow](https://stackoverflow.com/tags/fmi) - Questions related to FMI in Stack Overflow.
 - [Twitter's FMI Info and News](https://twitter.com/fmi_info) - Unofficial news account about the FMI Standard, FMI usage and FMI tools.
 
 
