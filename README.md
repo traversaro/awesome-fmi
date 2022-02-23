@@ -32,7 +32,7 @@ Unless noted otherwise, the tools and libraries listed are compatible with FMI 2
 Libraries to import, simulate and export FMUs (Functional Mock-up Units) that support FMI 2.
 
 #### C
-- [FMI Library](http://jmodelica.org/FMILibrary) - C library for import of FMUs. [BSD]
+- [FMI Library](https://github.com/modelon-community/fmi-library) - C library for import of FMUs. [BSD]
 - [FMU SDK](https://github.com/qtronic/fmusdk) - C library for exporting FMUs. [BSD]
 
 #### C++
@@ -40,7 +40,7 @@ Libraries to import, simulate and export FMUs (Functional Mock-up Units) that su
 - [FMI4cpp](https://github.com/NTNU-IHB/FMI4cpp) - FMI 2.0 implementation written in modern C++. [MIT]
 
 #### Python
-- [PyFMI](http://www.pyfmi.org/) - Python package for loading and interacting with FMUs, based on the FMI Library. [LGPL]
+- [PyFMI](https://github.com/modelon-community/pyfmi) - Python package for loading and interacting with FMUs, based on the FMI Library. [LGPL]
 - [FMPy](https://github.com/CATIA-Systems/FMPy) - Python package for loading and interacting with FMUs. It supports also the latest [System Structure and Parameterization (SSP standard)](https://www.modelica.org/projects). [BSD]
 - [FMI++ Python Interface](https://pypi.python.org/pypi/fmipp) - Python interface for the FMI++ library. [BSD, BOOST]
 - [SimulatorToFMU](https://github.com/LBNL-ETA/SimulatorToFMU) - Python package that allows to export a memoryless Python-driven simulation program or script as a FMU. [BSD]
