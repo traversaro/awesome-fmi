@@ -91,7 +91,7 @@ Some of the projects listed in the previous section also support for FMI 3 :
 - **Julia:**
   - [FMI.jl](https://github.com/ThummeTo/FMI.jl)  - experimental support for FMI `3.0` is work in progress
 - **Simulink:** 
-  - [FMIKit-Simulink](https://github.com/CATIA-Systems/FMIKit-Simulink) - Experimental support for export of FMU `3.0` is available in the `develop` branch.
+  - [FMIKit-Simulink](https://github.com/CATIA-Systems/FMIKit-Simulink) - support for export of FMU `3.0` is available.
 - **Formal models**
   - [FMI-VDM-Model](https://github.com/INTO-CPS-Association/FMI-VDM-Model) - [VDM](https://en.wikipedia.org/wiki/Vienna_Development_Method) formal models for the FMI3.0 specification.
 
