@@ -70,6 +70,7 @@ Libraries to import, simulate and export FMUs (Functional Mock-up Units) that su
 For the official list of tools that support FMI 2, check http://fmi-standard.org/tools/ .
 
 - [λ-Sim](https://github.com/mbonvini/LambdaSim) - Tool that converts FMU simulation models into REST APIs. [MIT]
+- [Dymola](https://www.dymola.com) - A modeling and simulation environment for Modelica, with full support for FMI. [Commercial]
 - [FMIGo!](http://www.fmigo.net/) - A set of tools for dealing with the FMI and SSP standards. [MIT]
 - [FMITerminalBlock](https://github.com/AIT-IES/FMITerminalBlock) -  Two way interface between the FMI and IEC 61499-based controllers. [BSD]
 - [FMU-proxy](https://github.com/NTNU-IHB/FMU-proxy/) - Framework that allows Functional Mock-up Units (FMUs) to be accessed through language independent RPC calls and that permits to transform a co-simulation FMU into a proxified version of the same FMU, so that each FMU can run in a separate process. [MIT]
@@ -87,6 +88,8 @@ Some of the projects listed in the previous section also support for FMI 3 :
 - **Examples**: 
   - [Reference-FMUs](https://github.com/modelica/Reference-FMUs) : `3.0` examples FMUs are available, including examples for new co-simulation features such as scheduled co-simulation and early return in co-simulation.
   - [PMSFIT/FMI30TestFMUs](https://github.com/PMSFIT/FMI30TestFMUs) : Some examples FMUs based on the FMI 3.0 specification are available, including features such as binary variables.
+- **Modelica:** 
+  - [Dymola](https://www.dymola.com) - support for FMI `3.0` is available, including arrays, terminals, icons, event mode and early return.
 - **Python:** 
   - [fmpy](https://github.com/CATIA-Systems/FMPy) - support for FMI `3.0` is available.
 - **Julia:**
