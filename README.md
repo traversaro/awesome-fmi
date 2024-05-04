@@ -103,6 +103,7 @@ Some of the projects listed in the previous section also support for FMI 3 :
 
 - [Stack Overflow](https://stackoverflow.com/tags/fmi) - Questions related to FMI in Stack Overflow.
 - [Twitter's FMI Info and News](https://twitter.com/fmi_info) - Unofficial news account about the FMI Standard, FMI usage and FMI tools.
+- [LinkedIn FMI Group](https://www.linkedin.com/groups/7477473/) - Open group to spread news and discuss topics w.r.t. FMI.
 
 
 ## Contribute
