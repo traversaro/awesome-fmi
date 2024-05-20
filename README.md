@@ -77,6 +77,7 @@ For the official list of tools that support FMI 2, check http://fmi-standard.org
 - [Unity-FMI-Addon](https://github.com/CATIA-Systems/Unity-FMI-Addon) - FMI support for [Unity](https://unity3d.com/), a cross-platform game engine. [BSD]
 - [ROS fmi_adapter](https://github.com/boschresearch/fmi_adapter) - FMI support for [ROS](http://www.ros.org/), a flexible framework for writing robot software. [APACHE2]
 - [fmi_adapter_ros2](https://github.com/boschresearch/fmi_adapter_ros2) - FMI support for [ROS2](https://index.ros.org/doc/ros2/), the new version of the Robot Operating System. [APACHE2]
+- [fmu-viewer](https://hyumo.github.io/fmuviewer-web/) - A simple FMU viewer in the browser
 
 ## FMI 3
 
