@@ -23,8 +23,8 @@ See the [official FMI website](http://fmi-standard.org/) for the official specif
 
 ## FMI 2
 
-The latest (as of November 2021) stable release of the FMI specification is `2.0.3`, released on 2021-11-17.
-You can find the text of the FMI specification 2.0.3 at https://github.com/modelica/fmi-standard/releases/tag/v2.0.3.
+The latest (as of June 2024) stable release of the FMI 2 specification is `2.0.4`, released on 2022-12-1.
+You can find the text of the FMI specification 2.0.4 at https://github.com/modelica/fmi-standard/releases/tag/v2.0.4 .
 Unless noted otherwise, the tools and libraries listed are compatible with FMI 2.
 
 ### Libraries
@@ -81,9 +81,9 @@ For the official list of tools that support FMI 2, check http://fmi-standard.org
 
 ## FMI 3
 
-FMI 3.0  was recently released. General information on the FMI 3.0 feature list can be found in https://fmi-standard.org/faq/, and the standard text source can be found at https://github.com/modelica/fmi-standard . You can find the latest, automatically generated version of the FMI 3.0 standard at https://fmi-standard.org/docs/3.0-dev/ .
-
-**Warning: FMI 3.0 was recently released, and most of the tools listed in the following they support it only in an experimental way. If you want stable tools, use FMI 2 for the time being.**
+The latest (as of June 2024) stable release of the FMI 3 specification is `3.0.1`, released on 2023-07-10 .
+You can find the text of the FMI specification 3.0.1 at https://fmi-standard.org/docs/3.0.1/ .
+General information on the FMI 3.0 feature list can be found in https://fmi-standard.org/faq/ . 
 
 Some of the projects listed in the previous section also support for FMI 3 :
 - **Examples**: 
